@@ -73,7 +73,6 @@ export default {};
 .svg {
   width: 50px;
 }
-
 .neg-margin-shop {
   position: relative;
   margin-bottom: -75px;

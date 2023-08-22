@@ -116,18 +116,6 @@ export default {};
 </template>
 
 <style lang="scss" scoped>
-.buy-icons {
-  height: 50px;
-}
-.svg {
-  width: 50px;
-}
-
-.neg-margin-shop {
-  position: relative;
-  margin-bottom: -75px;
-}
-
 .info-bg {
   min-height: 300px;
   background-image: url(../assets/img/footer-bg.jpg);
