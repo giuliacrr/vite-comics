@@ -9,58 +9,60 @@ export default {};
       <div class="container">
         <div class="d-flex justify-content-between">
           <div class="d-flex align-items-center">
-            <!--first column-->
-            <div>
-              <span class="text-uppercase text-white fw-bold list-title">
-                dc comics</span
-              >
-              <ul class="text-white fs-6 text-white-50">
-                <li>Characters</li>
-                <li>Comics</li>
-                <li>Movies</li>
-                <li>TV</li>
-                <li>Games</li>
-                <li>Videos</li>
-                <li>News</li>
-              </ul>
-              <span class="text-uppercase text-white fw-bold list-title">
-                shop</span
-              >
-              <ul class="text-white fs-6 text-white-50">
-                <li>Shop DC</li>
-                <li>Shop DC Collectibles</li>
-              </ul>
-            </div>
-            <!--second column-->
-            <div>
-              <span class="text-uppercase text-white fw-bold list-title">
-                dc</span
-              >
-              <ul class="text-white fs-6 text-white-50">
-                <li>Characters</li>
-                <li>Comics</li>
-                <li>Movies</li>
-                <li>TV</li>
-                <li>Games</li>
-                <li>Videos</li>
-                <li>News</li>
-                <li>News</li>
-                <li>News</li>
-                <li>News</li>
-              </ul>
-            </div>
-            <!--third column-->
-            <div>
-              <span class="text-uppercase text-white fw-bold list-title">
-                sites</span
-              >
-              <ul class="text-white fs-6 text-white-50">
-                <li>DC</li>
-                <li>MAD Magazine</li>
-                <li>DC Kids</li>
-                <li>DC Universe</li>
-                <li>DC Power Visa</li>
-              </ul>
+            <div class="d-flex">
+              <!--first column-->
+              <div>
+                <span class="text-uppercase text-white fw-bold list-title">
+                  dc comics</span
+                >
+                <ul class="text-white fs-6 text-white-50">
+                  <li>Characters</li>
+                  <li>Comics</li>
+                  <li>Movies</li>
+                  <li>TV</li>
+                  <li>Games</li>
+                  <li>Videos</li>
+                  <li>News</li>
+                </ul>
+                <span class="text-uppercase text-white fw-bold list-title">
+                  shop</span
+                >
+                <ul class="text-white fs-6 text-white-50">
+                  <li>Shop DC</li>
+                  <li>Shop DC Collectibles</li>
+                </ul>
+              </div>
+              <!--second column-->
+              <div>
+                <span class="text-uppercase text-white fw-bold list-title">
+                  dc</span
+                >
+                <ul class="text-white fs-6 text-white-50">
+                  <li>Characters</li>
+                  <li>Comics</li>
+                  <li>Movies</li>
+                  <li>TV</li>
+                  <li>Games</li>
+                  <li>Videos</li>
+                  <li>News</li>
+                  <li>News</li>
+                  <li>News</li>
+                  <li>News</li>
+                </ul>
+              </div>
+              <!--third column-->
+              <div>
+                <span class="text-uppercase text-white fw-bold list-title">
+                  sites</span
+                >
+                <ul class="text-white fs-6 text-white-50">
+                  <li>DC</li>
+                  <li>MAD Magazine</li>
+                  <li>DC Kids</li>
+                  <li>DC Universe</li>
+                  <li>DC Power Visa</li>
+                </ul>
+              </div>
             </div>
           </div>
           <div><img src="../assets/img/dc-logo-bg.png" alt="dclogobg" /></div>
